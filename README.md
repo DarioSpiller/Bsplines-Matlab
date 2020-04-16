@@ -16,7 +16,7 @@ Just run the code in the Matlab environment.
 
 ## Running the tests
 
-This folder contains a preliminary version of the codes. Improvements and updates will be reported ASAP.
+This folder contains a preliminary version of the codes. Improvements and updates will be reported ASAP. Note that the mex files can give problems depending on the Matlab version you're using. In such a case, consider using the original m file or recreate the mex using the Matlab coder.
 
 
 ## Built With
