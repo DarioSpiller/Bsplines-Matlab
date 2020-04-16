@@ -1,0 +1,11 @@
+libemlrt.lib
+libcovrt.lib
+libut.lib
+libmwblas.lib
+libmwmathutil.lib
+/export:mexFunction
+/export:emlrtMexFcnProperties
+/export:triangular_algorithm_TBM
+/export:triangular_algorithm_TBM_initialize
+/export:triangular_algorithm_TBM_terminate
+/export:triangular_algorithm_TBM_atexit
